@@ -1,0 +1,22 @@
+{
+  "name": "asanaduino",
+  "version": "1.0.0",
+  "description": "Repository for communication between Asana and Arduino",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rricardi/asanaduino.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rricardi/asanaduino/issues"
+  },
+  "homepage": "https://github.com/rricardi/asanaduino#readme"
+}
