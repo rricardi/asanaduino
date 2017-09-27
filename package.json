@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
+    "johnny-five": "^0.11.6",
     "jshint": "^2.9.5"
   },
   "scripts": {
