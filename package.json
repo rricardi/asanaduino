@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "asana": "^0.15.0",
+    "j5-songs": "0.0.9",
     "johnny-five": "^0.11.6",
     "jshint": "^2.9.5"
   },
